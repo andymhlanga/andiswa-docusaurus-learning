@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 (module.exports = {
   title: 'Andiswa Docu Site',
   tagline: 'Dinosaurs are coolio',
-  url: 'peaceful-bhaskara-97287a.netlify.app',
+  url: 'https://peaceful-bhaskara-97287a.netlify.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
