@@ -10,13 +10,13 @@
  * Note: this is not a complete list of --ifm- variables.
  */
  :root {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: rgb(33, 175, 144);
-  --ifm-color-primary-darker: rgb(31, 165, 136);
-  --ifm-color-primary-darkest: rgb(26, 136, 112);
-  --ifm-color-primary-light: rgb(70, 203, 174);
-  --ifm-color-primary-lighter: rgb(102, 212, 189);
-  --ifm-color-primary-lightest: rgb(146, 224, 208);
+  --ifm-color-primary: #5093c7;
+--ifm-color-primary-dark: #3d86be;
+--ifm-color-primary-darker: #397eb4;
+--ifm-color-primary-darkest: #2f6894;
+--ifm-color-primary-light: #65a0ce;
+--ifm-color-primary-lighter: #70a7d1;
+--ifm-color-primary-lightest: #8fbadb;
   --ifm-code-font-size: 95%;
 }
 
