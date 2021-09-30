@@ -1,3 +1,10 @@
-# My Markdown page
+---
+id: intro
+title: Andiswa First Markdown Page
+description: Used to play with markdown language
+slug: /my-custom-url
+---
 
-This is a Markdown page
+## Markdown heading
+
+Markdown text with [links](./hello.md)
