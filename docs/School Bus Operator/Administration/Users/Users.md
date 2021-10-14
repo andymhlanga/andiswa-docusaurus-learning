@@ -17,7 +17,7 @@ Users are people that can be added to be given a certain access on the portal de
 * If assigned as Bus **Admin Operator**, they have unlimited access to all in the portal.
 
 :::
-![img alt](/img/users_page.png)
+![img alt](/img/undraw_docusaurus_mountain.svg)
 
 ### How to add users?
 
